@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.9333221f.chunk.css",
+    "main.js": "/profile/static/js/main.d5c86e03.chunk.js",
+    "main.js.map": "/profile/static/js/main.d5c86e03.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.ccb4fe6e.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.ccb4fe6e.js.map",
+    "static/js/2.32291e13.chunk.js": "/profile/static/js/2.32291e13.chunk.js",
+    "static/js/2.32291e13.chunk.js.map": "/profile/static/js/2.32291e13.chunk.js.map",
+    "static/js/3.8700ed82.chunk.js": "/profile/static/js/3.8700ed82.chunk.js",
+    "static/js/3.8700ed82.chunk.js.map": "/profile/static/js/3.8700ed82.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "static/css/main.9333221f.chunk.css.map": "/profile/static/css/main.9333221f.chunk.css.map",
+    "static/js/2.32291e13.chunk.js.LICENSE.txt": "/profile/static/js/2.32291e13.chunk.js.LICENSE.txt",
+    "static/media/profile.084f6f5d.png": "/profile/static/media/profile.084f6f5d.png",
+    "static/media/runbuddy.jpg": "/profile/static/media/runbuddy.d4c9ee3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ccb4fe6e.js",
+    "static/js/2.32291e13.chunk.js",
+    "static/css/main.9333221f.chunk.css",
+    "static/js/main.d5c86e03.chunk.js"
+  ]
+}
