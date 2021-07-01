@@ -204,6 +204,7 @@ address {
 }
 
 .mx-2 {
+  border: double;
   margin-right: var(--spacing-two);
   margin-left: var(--spacing-two);
 }
