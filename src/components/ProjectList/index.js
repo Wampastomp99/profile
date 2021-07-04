@@ -3,10 +3,10 @@ import React, { useState } from 'react';
 function ProjectList() {
     const [projects] = useState([
         {
-            name: 'Runbuddy',
-            description: 'A site for runners to connect with trainers to improve their runs',
-            url: 'https://Wampastomp99.github.io/run-buddy/',
-            github: 'https://github.com/Wampastomp99/run-buddy'
+            name: 'Golf-Buddy',
+            description: 'A site so golfers can trak there golf scores',
+            url: 'https://github.com/Jasonpsmith180/golf-buddy',
+            github: 'https://bearded-leaf-21355.herokuapp.com/'
         },
 
     ]);
@@ -22,7 +22,7 @@ function ProjectList() {
                         
                         key={project.name}
                     />
-                    <p>an app for running</p>
+                    <p>An app for golfers to track there golf scores</p>
                     </a>
                 ))}
             </div>
